@@ -1,13 +1,14 @@
-import Head from 'next/head'
-import db from '../../../db.json'
+/* eslint-disable react/react-in-jsx-scope */
+import Head from 'next/head';
+import db from '../../../db.json';
 
 function IndexPage() {
   return (
-      <Head>
-        <title>{db.title}</title>
-        <meta property="og:image" content={db.bg} key={db.title} />
-      </Head>
-  )
+    <Head>
+      <title>{db.title}</title>
+      <meta property="og:image" content={db.bg} key={db.title} />
+    </Head>
+  );
 }
 
-export default IndexPage
+export default IndexPage;
