@@ -1,4 +1,3 @@
-/* eslint-disable react/react-in-jsx-scope */
 import styled from 'styled-components';
 
 // src/components/Footer/index.js
@@ -38,7 +37,7 @@ export default function Footer(props) {
         {' '}
         a
         {' '}
-        <a href="https://www.alura.com.br/imersao-react-next-js">
+        <a href="https://www.alura.com.br/">
           <span>Imersão React da Alura</span>
         </a>
       </p>

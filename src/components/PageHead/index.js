@@ -2,7 +2,7 @@
 import Head from 'next/head';
 import db from '../../../db.json';
 
-function IndexPage() {
+function PageHead() {
   return (
     <Head>
       <title>{db.title}</title>
@@ -11,4 +11,4 @@ function IndexPage() {
   );
 }
 
-export default IndexPage;
+export default PageHead;
