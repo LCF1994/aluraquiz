@@ -1,28 +1,90 @@
 {
-  "bg":"https://www.selecoes.com.br/wp-content/uploads/2018/10/halloween-760x450.jpg",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://images.unsplash.com/photo-1568564678726-bcd0b2924dc9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+  "title": "Quiz do Milhão",
+  "description": "Divirta-se com perguntas que marcaram época, diretamente do tunel do tempo",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://br.web.img3.acsta.net/r_640_360/newsv7/20/12/03/23/55/2900889.jpg",
+      "title": "Em qual jogo aparecem as peças bispo, rainha e rei?",
+      "description": "Me ajuda Netflix !?",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Dama",
+        "Gamão",
+        "Xadrez",
+        "Hurling"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://1.bp.blogspot.com/-jREySEaR7wk/WpHcSSBtv1I/AAAAAAAALcg/AN3jxZ30YUsnkbr4BzO74ly9-so9xb3rwCLcBGAs/s640/blitz_asaventurasdablitz_b.jpg",
+      "title": "Qual é o plural de blitz?",
+      "description": "Você não soube me amar 🎼",
+      "answer": 2,
+      "alternatives": [
+        "Blitzes",
+        "Blitze",
+        "Blits",
+        "Blitz"
+      ]
+    },
+    {
+      "image": "https://i.ytimg.com/vi/0Mz00GY6Uys/maxresdefault.jpg",
+      "title": "Qual é o principal recurso mineral da Jamaica?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+        "Ferro",
+        "Estanho",
+        "Bauxita",
+        "Cobre"
+      ]
+    },
+    {
+      "image": "https://3.bp.blogspot.com/-N3IosvGXfV4/VTK1tKa8wLI/AAAAAAAABD4/v8bNdld0y7A/s1600/9bc0dd0e8065cacb75473ae82031d7f0.jpg",
+      "title": "Quem foi o autor de 'Vinte Mil Léguas Submarinas'?",
+      "description": "Excelente leitura",
+      "answer": 1,
+      "alternatives": [
+        "Edgard Allan Poe",
+        "Julio Verne",
+        "Eduardo Spohr",
+        "Agatha Christie"
+      ]
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/eQZcmsX6cJaDH5eDHglWta7CA1Mk9H7Nm7H-SB0e9daKr1RI5AKP-nLAkhvD-xjHHyCmeZgZNOvPAQ2J8Zapth2vaJBUButRC8uMWp8LK4U72d69Fwo7",
+      "title": "Quando ocorreu a Revolta da Vacina no Rio de Janeiro?",
+      "description": "Vem Vacina !",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "1904",
+        "1830",
+        "2021",
+        "1947"
+      ]
+    },
+    {
+      "image": "https://melhorespontosturisticos.com.br/wp-content/uploads/2014/06/011.jpg",
+      "title": "Qual cidade brasileira onde é proibido usar veiculos motorizados?",
+      "description": "Com direito a bicitáxis",
+      "answer": 3,
+      "alternatives": [
+        "Umburanas - BA",
+        "Araripina - PE",
+        "Cruzeiro do Sul - AC",
+        "Afuá - PA"
+      ]
+    },
+    {
+      "image": "https://files.tripstodiscover.com/files/2014/12/Seans-Bar1.jpg",
+      "title": "Onde fica o pub mais antigo do mundo?",
+      "description": "Datado do ano 900",
+      "answer": 0,
+      "alternatives": [
+        "Irlanda",
+        "Alemanha",
+        "Inglaterra",
+        "Estados Unidos"
       ]
     }
   ],
@@ -32,9 +94,9 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#4a148c",
-      "secondary": "#ff3d00",
-      "mainBg": "#330e62",
+      "primary": "#bb0000",
+      "secondary": "#ecc700",
+      "mainBg": "#00009a",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
